@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dragecko
-- 👀 I’m interested in python
+- 👀 I’m interested in JS 
 - 🌱 I’m currently learning :3
 - 📫 dragecko@etik.com
 
