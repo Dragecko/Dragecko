@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dragecko
 - 👀 I’m interested in JS 
 - 🌱 I’m currently learning :3
-- 📫 dragecko@etik.com
+- 📫 contact@dragecko.ch
 
 <!---
 Dragecko/Dragecko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
